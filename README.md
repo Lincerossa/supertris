@@ -1,2 +1,2 @@
 # supertris
-https://134c7.csb.app/
+https://oiv4j.csb.app/
